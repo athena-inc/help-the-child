@@ -1,0 +1,47 @@
+[
+  {
+    "name": "NGO1",
+    "city": "Bhubaneswar",
+    "location": "Saheed Nagar",
+    "phoneNo": 9040499079,
+    "email": "ngo1@email.com",
+    "website": "https://ngo1.com",
+    "logo": "https://media.licdn.com/dms/image/C5103AQFP0clxe-ceaw/profile-displayphoto-shrink_200_200/0?e=1544054400&v=beta&t=0gtUmt3muQlY0YTmxKzwYv5GJS9j6KkYiglsTkCFtGw"
+  },
+  {
+    "name": "NGO2",
+    "city": "Bhubaneswar",
+    "location": "Vanivihar",
+    "phoneNo": 9040499079,
+    "email": "ngo2@email.com",
+    "website": "https://ngo2.com",
+    "logo": "https://media.licdn.com/dms/image/C5103AQFP0clxe-ceaw/profile-displayphoto-shrink_200_200/0?e=1544054400&v=beta&t=0gtUmt3muQlY0YTmxKzwYv5GJS9j6KkYiglsTkCFtGw"
+  },
+  {
+    "name": "NGO3",
+    "city": "Rourkela",
+    "location": "Kuarmunda",
+    "phoneNo": 9040499079,
+    "email": "ngo3@email.com",
+    "website": "https://ngo4.com",
+    "logo": "https://media.licdn.com/dms/image/C5103AQFP0clxe-ceaw/profile-displayphoto-shrink_200_200/0?e=1544054400&v=beta&t=0gtUmt3muQlY0YTmxKzwYv5GJS9j6KkYiglsTkCFtGw"
+  },
+  {
+    "name": "NGO4",
+    "city": "Rourkela",
+    "location": "Indra Gandhi Park",
+    "phoneNo": 9040499079,
+    "email": "ngo4@email.com",
+    "website": "https://ngo4.com",
+    "logo": "https://media.licdn.com/dms/image/C5103AQFP0clxe-ceaw/profile-displayphoto-shrink_200_200/0?e=1544054400&v=beta&t=0gtUmt3muQlY0YTmxKzwYv5GJS9j6KkYiglsTkCFtGw"
+  },
+  {
+    "name": "NGO5",
+    "city": "Cuttack",
+    "location": "Badambadi",
+    "phoneNo": 9040499079,
+    "email": "ngo5@email.com",
+    "website": "https://ngo5.com",
+    "logo": "https://media.licdn.com/dms/image/C5103AQFP0clxe-ceaw/profile-displayphoto-shrink_200_200/0?e=1544054400&v=beta&t=0gtUmt3muQlY0YTmxKzwYv5GJS9j6KkYiglsTkCFtGw"
+  }
+]
